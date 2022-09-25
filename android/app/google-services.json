@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084134591937",
+    "firebase_url": "https://washing-app-75e36-default-rtdb.firebaseio.com",
+    "project_id": "washing-app-75e36",
+    "storage_bucket": "washing-app-75e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084134591937:android:8fffeb93c76699fd50b340",
+        "android_client_info": {
+          "package_name": "com.example.washing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084134591937-fj9adqo9lhri02t4lk8nmfs8eck3deog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.washing_app",
+            "certificate_hash": "5e246b5c6af79cd3880d0de40c9d5b4b6e45cc14"
+          }
+        },
+        {
+          "client_id": "1084134591937-ceor79b63qar802dake3bgm3h00r16e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0p8rIHfddHMgpCm1RxhQ8UOnP-_OanPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084134591937-ceor79b63qar802dake3bgm3h00r16e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
